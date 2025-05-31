@@ -79,6 +79,7 @@ Before you begin, ensure you have the following installed:
         MAILTRAP_USER=your_mailtrap_username
         MAILTRAP_PASS=your_mailtrap_password
         CLIENT_URL=http://localhost:5173 # Default Vite frontend URL
+        MAIL_PASS=API_token_pass_key
         ```
     * Install dependencies:
         ```bash
